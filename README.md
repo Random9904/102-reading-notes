@@ -6,3 +6,5 @@
 [Class 03: Startup Sequences and BIOS](https://github.com/Random9904/102-reading-notes/wiki/Class-03:-Startup-Sequences-and-BIOS)
 
 [Class 04: Installing Ubuntu Linux](https://github.com/Random9904/102-reading-notes/wiki/Class-04:-Installing-Ubuntu-Linux)
+
+[Class 05: Installing Virtualbox with Linux Terminal](https://github.com/Random9904/102-reading-notes/wiki/Class-05:-Installing-Virtualbox-with-Linux-Terminal)
