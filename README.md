@@ -8,3 +8,5 @@
 [Class 04: Installing Ubuntu Linux](https://github.com/Random9904/102-reading-notes/wiki/Class-04:-Installing-Ubuntu-Linux)
 
 [Class 05: Installing Virtualbox with Linux Terminal](https://github.com/Random9904/102-reading-notes/wiki/Class-05:-Installing-Virtualbox-with-Linux-Terminal)
+
+[Class 06: SOHO Networking](https://github.com/Random9904/102-reading-notes/wiki/Class-06:-SOHO-Networking)
