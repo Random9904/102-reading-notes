@@ -12,3 +12,7 @@
 [Class 06: SOHO Networking](https://github.com/Random9904/102-reading-notes/wiki/Class-06:-SOHO-Networking)
 
 [Class 07: Network Connectivity](https://github.com/Random9904/102-reading-notes/wiki/Class-07:-Network-Connectivity)
+
+[Class 08: Virtualization of Windows OS](https://github.com/Random9904/102-reading-notes/wiki/Class-08:-Virtualization-of-Windows-OS)
+
+[Class 09: Command Line Interface](https://github.com/Random9904/102-reading-notes/wiki/Class-09:-Command-Line-Interface)
